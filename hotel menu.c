@@ -2,7 +2,7 @@
 int main()
 {
  int choice,qty,rate,price;
- printf("\nMENU CARD \nSelect your drink \n1.Pizza\n2.Burger \n3.Pasta \n4.French Fries \n5.Sandwich\n ");
+ printf("\nMENU CARD \nSelect your food item \n1.Pizza\n2.Burger \n3.Pasta \n4.French Fries \n5.Sandwich\n ");
  printf("\n enter your choice :\n");
  scanf("%d",&choice);
  switch(choice)
